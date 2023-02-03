@@ -1,0 +1,5 @@
+Başlangıç Düğümü : C Hedef Düğüm : B Mesafe : 5
+Ziyaret Edilen Düğümler : [C,A,B,]
+c, Bursa, 3100000, Marmara Bolgesi
+b, Kirsehir, 243000, ic Anadolu Bolgesi
+*************************************************************************

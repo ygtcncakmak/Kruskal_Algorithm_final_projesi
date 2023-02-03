@@ -1,0 +1,9 @@
+a, Ankara, 5660000, ic Anadolu Bolgesi
+b, Kirsehir, 243000, ic Anadolu Bolgesi
+c, Bursa, 3100000, Marmara Bolgesi
+d, Istanbul, 15460000, Marmara Bolgesi
+e, Balikesir, 1260000, Marmara Bolgesi
+f, izmir, 4367000,Ege Bolgesi
+g, Kocaeli, 1906000, Marmara Bolgesi
+h, Aydin, 1000000, Ege Bolgesi
+i, Cankiri, 216000, ic Anadolu Bolgesi
